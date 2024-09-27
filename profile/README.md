@@ -6,10 +6,10 @@
 ### Welcome to Our Python Development Hub!
 
 **Who We Are:**
-Our team is passionate about building scalable, high-performance web applications using Angular. We are a group of developers, designers, and architects dedicated to pushing the boundaries of what's possible with this powerful framework.
+Our team is passionate about building scalable, high-performance web applications. We are a group of developers, designers, and architects dedicated to pushing the boundaries of what's possible with this powerful framework.
 
 **Get Involved:**
-Community involvement is the backbone of open-source projects like ours. You can contribute by reporting issues, suggesting improvements, or even submitting pull requests. If you're new to Angular or looking to improve, consider tackling some "good first issues" to get started.
+Community involvement is the backbone of open-source projects like ours. You can contribute by reporting issues, suggesting improvements, or even submitting pull requests. If you're new to Python or looking to improve, consider tackling some "good first issues" to get started.
 
 **Resources for You:**
 You'll find everything you need to join us in development in our [Documentation Hub](https://bio.link/angulardev). This includes setup instructions, coding standards, and contribution policies. Don't  out on our FAQ section, which can help you get up to speed quickly.
